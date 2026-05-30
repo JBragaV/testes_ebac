@@ -51,7 +51,6 @@ http://localhost:5173
 6. **Rode os testes**
 ```bash
 npm run test
-``` ou
-```bash
+# or
 npm run testAll
 ```
